@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 
-// ---------------- Custom Exceptions ----------------
 public class InvalidScoreFormatException : Exception
 {
     public InvalidScoreFormatException(string message) : base(message) { }
@@ -13,7 +12,6 @@ public class MissingFieldException : Exception
     public MissingFieldException(string message) : base(message) { }
 }
 
-// ---------------- Student Class ----------------
 public class Student
 {
     public int Id { get; set; }
@@ -37,7 +35,6 @@ public class Student
     }
 }
 
-// ---------------- StudentResultProcessor Class ----------------
 public class StudentResultProcessor
 {
     public List<Student> ReadStudentsFromFile(string inputFilePath)
@@ -90,7 +87,6 @@ public class StudentResultProcessor
     }
 }
 
-// ---------------- Main Application ----------------
 class Program
 {
     static void Main()
@@ -98,7 +94,6 @@ class Program
         string inputFilePath = "students.txt";
         string outputFilePath = "report.txt";
 
-        // Step 1: Let the user enter student details
         Console.Write("How many students do you want to enter? ");
         int count = int.Parse(Console.ReadLine());
 
