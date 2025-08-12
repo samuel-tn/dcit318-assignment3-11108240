@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 85, Grade = A
+Joshua Zirkzee (ID: 102): Score = 49, Grade = F
+Jake Paul (ID: 103): Score = 65, Grade = C
+Alex MacAllister (ID: 104): Score = 75, Grade = B
+Caitlyn Clark (ID: 105): Score = 59, Grade = D
