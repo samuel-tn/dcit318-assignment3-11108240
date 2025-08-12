@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1111,
+    "Name": "Laptop",
+    "Quantity": 5,
+    "DateAdded": "2025-08-12T21:55:07.7784628+00:00"
+  },
+  {
+    "Id": 1112,
+    "Name": "Television",
+    "Quantity": 10,
+    "DateAdded": "2025-08-12T21:55:07.8232543+00:00"
+  },
+  {
+    "Id": 1103,
+    "Name": "PS5 Console",
+    "Quantity": 15,
+    "DateAdded": "2025-08-12T21:55:07.8234046+00:00"
+  },
+  {
+    "Id": 1114,
+    "Name": "Monitor",
+    "Quantity": 19,
+    "DateAdded": "2025-08-12T21:55:07.8234888+00:00"
+  },
+  {
+    "Id": 1106,
+    "Name": "Printer",
+    "Quantity": 3,
+    "DateAdded": "2025-08-12T21:55:07.8236415+00:00"
+  }
+]
